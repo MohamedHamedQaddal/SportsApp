@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (4.9.1)
+  - SDWebImage (4.4.8):
+    - SDWebImage/Core (= 4.4.8)
+  - SDWebImage/Core (4.4.8)
+  - SwiftyJSON (5.0.0)
+  - YoutubePlayer-in-WKWebView (0.3.5)
+
+DEPENDENCIES:
+  - Alamofire
+  - SDWebImage (~> 4.0)
+  - SwiftyJSON
+  - YoutubePlayer-in-WKWebView
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SDWebImage
+    - SwiftyJSON
+    - YoutubePlayer-in-WKWebView
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  SDWebImage: 783af2c3fa36291a250030c4752ee370a9a51d13
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  YoutubePlayer-in-WKWebView: cfbf46da51d7370662a695a8f351e5fa1d3e1008
+
+PODFILE CHECKSUM: 3b63c9350fd39687ef13f8abef8f93f069e9898e
+
+COCOAPODS: 1.10.1
